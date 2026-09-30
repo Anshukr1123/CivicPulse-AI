@@ -1,0 +1,8 @@
+{
+  "name": "CivicPulse AI",
+  "description": "Multilingual AI-powered Digital Public Infrastructure and Governance platform transforming citizen voice into development intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
